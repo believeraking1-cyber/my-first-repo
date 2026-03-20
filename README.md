@@ -13,3 +13,7 @@ This is my first project.
 
 ## My goal
 To become better at coding and collaboration.
+
+## My Projects
+- hello.py
+- math.py
