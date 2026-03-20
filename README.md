@@ -17,3 +17,6 @@ To become better at coding and collaboration.
 ## My Projects
 - hello.py
 - math.py
+
+name = "Raking"  # or your name
+print(f"Hello, {name}! Welcome to GitHub learning.")
