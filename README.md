@@ -18,5 +18,8 @@ To become better at coding and collaboration.
 - hello.py
 - math.py
 
-name = "Raking"  # or your name
-print(f"Hello, {name}! Welcome to GitHub learning.")
+## Example from math.py
+```python
+def add(a, b):
+    return a + b
+print(add(5, 3))  # Output: 8
