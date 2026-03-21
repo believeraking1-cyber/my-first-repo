@@ -17,3 +17,9 @@ To become better at coding and collaboration.
 ## My Projects
 - hello.py
 - math.py
+
+## Example from math.py
+```python
+def add(a, b):
+    return a + b
+print(add(5, 3))  # Output: 8
