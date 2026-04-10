@@ -1,19 +1,13 @@
-# my-first-repo
-This is my first GitHub repository
+# My First Python Projects
 
-# My First Project
+Simple Python scripts (hello.py, math.py, etc.)
 
-Hi, I'm learning GitHub.
+## How to run
+1. Clone the repo: `git clone https://github.com/believeraking1-cyber/my-first-repo.git`
+2. Run: `python hello.py`
 
-This is my first project.
+## What I learned
+- Basic Python
+- Making code interactive
 
-## What I'm doing
-- Learning how GitHub works
-- Practicing how to upload files
-
-## My goal
-To become better at coding and collaboration.
-
-## My Projects
-- hello.py
-- math.py
+Feel free to use or improve it!
